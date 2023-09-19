@@ -1,4 +1,4 @@
-let a = Math.floor(Math.random() * 2) + 1;
+let a = Math.floor(Math.random() * 2) + 1; 
 
 if (a == 1) {
     console.log("Your number is one");
