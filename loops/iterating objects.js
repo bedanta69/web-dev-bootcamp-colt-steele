@@ -6,6 +6,6 @@ const testscores = {
 
 }
 
-for (const scores in testscores) {
+for (const scores in testscores) {                       //in is used instead of of
     console.log(scores, " ", "marks", " ", "=", " ", testscores[scores]);
 }
