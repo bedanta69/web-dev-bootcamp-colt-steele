@@ -12,3 +12,4 @@ function parentfunction() {
 }
 parentfunction();
 //the scope of variables created in a parent function is to all its subfunctions
+//but it doesnot work the othwr way around the parent function doesnot have access to the variables crated in the nested functions
