@@ -8,5 +8,5 @@ numbers.forEach(print)
 
 //but it is most commonly used like this
 numbers.forEach(function (el) {
-    console.log(el)
+    console.log(el);
 })
