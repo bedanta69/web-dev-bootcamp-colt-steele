@@ -4,4 +4,4 @@ function allEvens(arr) {
     } else {
         return false;
     }
-}
+};
